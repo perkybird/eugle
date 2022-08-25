@@ -30,6 +30,7 @@ input[type="text"] {
     background: url(eye.png) no-repeat scroll 1px -9px;
     padding-left: 50px;
 }
+
 .lnk {
     font-family: sans-serif;
     text-align: right;
@@ -39,4 +40,10 @@ input[type="text"] {
 }
 .lnk:hover {
     text-decoration: underline;
+}
+#b1 {
+    display: none;
+}
+function makeChange() {
+    document.getElementById("b1").style.display = "block;"
 }
