@@ -10,7 +10,7 @@ img {
     display: block;
     margin-right: auto;
     width: 80px;
-    padding: 20px;
+    padding: 15px;
 }
 .textInput {
     display: block;
@@ -23,4 +23,14 @@ img {
 
 .textInput:focus {
     border:blue;
+}
+h1 {
+    font-family: sans-serif;
+    color: orangered;
+    text-align: left;
+    padding-left: 40px;
+}
+h2 {
+    font-family: sans-serif;
+    color: grey;
 }
