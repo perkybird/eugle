@@ -37,10 +37,8 @@ input[type="text"] {
     padding-right: 15px;
     color:rgb(0,0,0,.87);
     text-decoration: none;
+    float: right;
 }
 .lnk:hover {
     text-decoration: underline;
-}
-#lnk {
-    text-align: right;
 }
