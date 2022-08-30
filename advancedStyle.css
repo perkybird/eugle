@@ -38,3 +38,6 @@ h4 {
     font-weight: lighter;
     padding-left: 40px;
 }
+hr {
+    color: grey;
+}
