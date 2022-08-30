@@ -39,5 +39,7 @@ h4 {
     padding-left: 40px;
 }
 hr {
-    color: grey;
+    background-color: grey;
+    height: 1px;
+    border:none;
 }
