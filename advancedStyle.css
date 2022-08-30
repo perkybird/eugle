@@ -24,15 +24,17 @@ img {
 .textInput:focus {
     border:blue;
 }
-h1 {
+h3 {
     font-family: sans-serif;
     color: orangered;
     text-align: left;
     padding-left: 40px;
     font-weight: lighter;
 }
-h2 {
+h4 {
     font-family: sans-serif;
     color: grey;
     text-align: left;
+    font-weight: lighter;
+    padding-left: 40px;
 }
