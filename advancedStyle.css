@@ -1,8 +1,10 @@
 
 form {
     display: block;
-    padding: 30px;
+    padding-left: 40px;
     font-family: sans-serif;
+    float: left;
+
 }
 body {
     text-align: center;
