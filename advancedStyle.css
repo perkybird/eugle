@@ -46,3 +46,11 @@ hr {
     height: 1px;
     border:none;
 }
+label {
+    display: inline-block;
+    width: 200 px;
+}
+input {
+    display: inline-block;
+    width: 500px;
+}
