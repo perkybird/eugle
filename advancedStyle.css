@@ -1,9 +1,10 @@
 
 form {
-    display: block;
+    display: inline-block;
     padding-left: 40px;
     font-family: sans-serif;
     float: left;
+    margin: auto;
 
 }
 body {
@@ -15,18 +16,8 @@ img {
     width: 80px;
     padding: 15px;
 }
-.textInput {
-    display: block;
-    margin: auto;
-    border-radius: 75px;
-    padding: 12px;
-    border: 1px solid lightgrey;
-    width: 40%;
-}
 
-.textInput:focus {
-    border:blue;
-}
+
 h3 {
     font-family: sans-serif;
     color: rgba(255, 68, 0, 0.849);
@@ -49,11 +40,12 @@ hr {
 label {
     display: inline-block;
     width: 200 px;
-    box-align: left;
+    float: left;
+    margin: auto;
 }
 input {
     display: inline-block;
     width: 500px;
-    box-align: left;
-    margin: 20px;
+    float: right;
+   margin:12px;
 }
